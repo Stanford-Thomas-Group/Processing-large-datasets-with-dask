@@ -5,8 +5,9 @@ A brief introduction to processing large dataset with Dask.
 
 1) [When to use Dask](01-when-to-use-dask.md)
 2) [The task graph](02-the-task-graph.md)
-3) [Chunking](03-chunking.md)
-4) [Schedulers](04-schedulers.md)
+3) [Schedulers](03-schedulers.md)
+4) [Chunking](04-chunking.md)
+
 
 ## Other resources
 There are many other guides / introductions to Dask: 
